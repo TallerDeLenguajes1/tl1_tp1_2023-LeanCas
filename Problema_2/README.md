@@ -1,4 +1,4 @@
-#¿ Para que hacemos uso del archivo '.gitignore' ?
+# ¿ Para que hacemos uso del archivo '.gitignore' ?
 
 **Se hace para tener seguridad al trabajar con repositorios, para evitar algun error y compartir informacion como contraseñas o bases de datos**
 
